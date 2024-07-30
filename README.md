@@ -1,5 +1,9 @@
 # nosql-challenge
 Eat Safe, Love, 
+
+
+
+
 Part 1:
 -For this task we imported the data provided in the establishments.json in MongoDb.Created the database uk_food and the collection establishments.
 -Created an instance of the Mongo Client.
